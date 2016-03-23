@@ -1,2 +1,3 @@
-cd C:\Users\x-box\Documents\GitHub\Busfahrplan-Passau-Updater\Update_Busfahrplan-Passau
+REM mit Systemstart ausführen (Autostart)
+cd F:\Busfahrplan\Updater_exe
 java -jar Updater.jar
